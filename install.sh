@@ -8,4 +8,4 @@
         apt upgrade
             pkg install toilet -y
                 pkg install figlet -y
-                    sh play.sh
+                    sh LinkWa.sh
