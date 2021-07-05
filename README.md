@@ -1,4 +1,4 @@
-#LinkWa
+# LinkWa
 
 
 Alat untuk membuat Link chat Whatsapp secara praktis [Prayoga.com/linkwa](https://github.com/P677hl/LinkWa.git)
