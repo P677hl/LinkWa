@@ -11,31 +11,7 @@ Alat untuk membuat Link chat Whatsapp secara praktis [Prayoga.com/linkwa](https:
 <h2> Command</h2>
 
 
-Cara pemasangan di aplikasi Termux, gunakan perintah:
-```
-apt update && apt upgrade
-```
-```
-pkg install bash
-```
-```
-pkg install git -y
-```
-```
-git clone https://github.com/P677hl/LinkWa.git
-```
-Jika sudah menginstall sciptnya di termux, kalian tinggal menjalankan saja, dengan perintah:
-```
-cd LinkWa
-```
-Untuk memastikan semua bahan telah diinstall, masukan perintah:
-```
-sh install.sh
-```
-Jika yakin bahan telah di install, masukan perintah:
-```
-sh LinkWa.sh
-```
+Cara pemasangan di aplikasi Termux, gunakan perintah ```apt update && apt upgrade``` & ```pkg install bash``` & ```pkg install git -y``` & ```git clone https://github.com/P677hl/LinkWa.git``` Jika sudah menginstall sciptnya di termux, kalian tinggal menjalankan saja, dengan perintah ```cd LinkWa``` Untuk memastikan semua bahan telah diinstall, masukan perintah ```sh install.sh``` Jika yakin bahan telah di install, masukan perintah ```sh LinkWa.sh```
 
 <h2> Support here!</h2>
 
